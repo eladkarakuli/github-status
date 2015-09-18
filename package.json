@@ -4,7 +4,8 @@
   "dependencies": {
     "express": "~4.0.0",
     "body-parser": "~1.0.1",
-    "ejs": "~0.8.4"
+    "ejs": "~0.8.4",
+    "request": "2.62.0"
     },
   "devDependencies": {
     "grunt": "~0.4.1",
